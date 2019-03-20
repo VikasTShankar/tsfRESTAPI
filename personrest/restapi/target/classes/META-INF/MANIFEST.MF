@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Vikas
+Build-Jdk: 11.0.2
+Implementation-Title: restapi
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.apicrud
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/restapi
+Main-Class: com.apicrud.restapi.RestapiApplication
+Created-By: Maven Integration for Eclipse
+
